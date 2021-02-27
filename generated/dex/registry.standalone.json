@@ -1,0 +1,46 @@
+{
+    "tokens": {
+        "ether": {
+            "address": "ether",
+            "name": "Ether",
+            "symbol": "ETH",
+            "decimals": 18,
+            "precision": 4,
+            "hasIcon": true,
+            "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+        },
+        "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5": {
+            "address": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "precision": 0,
+            "hasIcon": false
+        },
+        "0xDc552396caEc809752fED0c5E23fd3983766e758": {
+            "address": "0xDc552396caEc809752fED0c5E23fd3983766e758",
+            "name": "Token 1",
+            "symbol": "tok1",
+            "decimals": 18,
+            "precision": 5,
+            "hasIcon": false
+        },
+        "0x50275d3F95E0F2FCb2cAb2Ec7A231aE188d7319d": {
+            "address": "0x50275d3F95E0F2FCb2cAb2Ec7A231aE188d7319d",
+            "name": "Token 2",
+            "symbol": "tok2",
+            "decimals": 18,
+            "precision": 5,
+            "hasIcon": false
+        },
+        "0xD81C7319c85fcd6e1F0893b3988BeBab6247Adbc": {
+            "address": "0xD81C7319c85fcd6e1F0893b3988BeBab6247Adbc",
+            "name": "Token 3",
+            "symbol": "tok3",
+            "decimals": 18,
+            "precision": 5,
+            "hasIcon": false
+        }
+    },
+    "untrusted": []
+}

@@ -1,6 +1,6 @@
 {
     "name": "Balancer",
-    "timestamp": "2021-02-25T00:00:00.000Z",
+    "timestamp": "2021-02-24T00:00:00.000Z",
     "logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
     "keywords": [
         "balancer",
@@ -707,6 +707,62 @@
             "symbol": "ZRX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+        },
+        {
+            "address": "0x930B233d616c3Be70f274A679c37a08a1803c3D5",
+            "chainId": 1287,
+            "name": "WETH",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "address": "0xa0407Fc4379E77f3Ac0Cea410589C8Ed02e96F18",
+            "chainId": 1287,
+            "name": "Token 1",
+            "symbol": "TOK1",
+            "decimals": 18
+        },
+        {
+            "address": "0x951EF3b13cc35ef4376dA6AA1Cc4d91c7Ee7ae7D",
+            "chainId": 1287,
+            "name": "Token 2",
+            "symbol": "TOK2",
+            "decimals": 18
+        },
+        {
+            "address": "0xE8b2E8a2e5d1aB00C335AEd726bf9cF266E4e114",
+            "chainId": 1287,
+            "name": "Token 3",
+            "symbol": "TOK3",
+            "decimals": 18
+        },
+        {
+            "address": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5",
+            "chainId": 1281,
+            "name": "WETH",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "address": "0xDc552396caEc809752fED0c5E23fd3983766e758",
+            "chainId": 1281,
+            "name": "Token 1",
+            "symbol": "TOK1",
+            "decimals": 18
+        },
+        {
+            "address": "0x50275d3F95E0F2FCb2cAb2Ec7A231aE188d7319d",
+            "chainId": 1281,
+            "name": "Token 2",
+            "symbol": "TOK2",
+            "decimals": 18
+        },
+        {
+            "address": "0xD81C7319c85fcd6e1F0893b3988BeBab6247Adbc",
+            "chainId": 1281,
+            "name": "Token 3",
+            "symbol": "TOK3",
+            "decimals": 18
         }
     ]
 }
