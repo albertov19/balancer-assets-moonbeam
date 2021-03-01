@@ -1,0 +1,49 @@
+{
+  "tokens": {
+    "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5": {
+      "address": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5",
+      "id": "weth",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "precision": 4,
+      "color": "#828384",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    "0xDc552396caEc809752fED0c5E23fd3983766e758": {
+      "address": "0xDc552396caEc809752fED0c5E23fd3983766e758",
+      "id": "tok1",
+      "name": "Token 1",
+      "symbol": "TOK1",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#fab323",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    "0x50275d3F95E0F2FCb2cAb2Ec7A231aE188d7319d": {
+      "address": "0x50275d3F95E0F2FCb2cAb2Ec7A231aE188d7319d",
+      "id": "tok2",
+      "name": "Token 2",
+      "symbol": "TOK2",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#5eb8aa",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    },
+    "0xD81C7319c85fcd6e1F0893b3988BeBab6247Adbc": {
+      "address": "0xD81C7319c85fcd6e1F0893b3988BeBab6247Adbc",
+      "id": "tok3",
+      "name": "Token 3",
+      "symbol": "Token 3",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#2875ca",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    }
+  },
+  "untrusted": []
+}
