@@ -1,7 +1,7 @@
 {
   "tokens": {
-    "0x930B233d616c3Be70f274A679c37a08a1803c3D5": {
-      "address": "0x930B233d616c3Be70f274A679c37a08a1803c3D5",
+    "0x20e2128fCe689c76B908bF515C00FcbD9A62C4BE": {
+      "address": "0x20e2128fCe689c76B908bF515C00FcbD9A62C4BE",
       "id": "weth",
       "name": "Wrapped Ether",
       "symbol": "WETH",
@@ -11,33 +11,99 @@
       "hasIcon": false,
       "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
-    "0xa0407Fc4379E77f3Ac0Cea410589C8Ed02e96F18": {
-      "address": "0xa0407Fc4379E77f3Ac0Cea410589C8Ed02e96F18",
-      "id": "tok1",
-      "name": "Token 1",
-      "symbol": "TOK1",
+    "0xf4706e316819C4B2F20f18B39D47cAd507807d65": {
+      "address": "0xf4706e316819C4B2F20f18B39D47cAd507807d65",
+      "id": "merc",
+      "name": "Mercury",
+      "symbol": "MERC",
       "decimals": 18,
       "precision": 3,
       "color": "#fab323",
       "hasIcon": false,
       "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
-    "0x951EF3b13cc35ef4376dA6AA1Cc4d91c7Ee7ae7D": {
-      "address": "0x951EF3b13cc35ef4376dA6AA1Cc4d91c7Ee7ae7D",
-      "id": "tok2",
-      "name": "Token 2",
-      "symbol": "TOK2",
+    "0xbb94A7C53Efc68A949218201E8248ACd24711E35": {
+      "address": "0xbb94A7C53Efc68A949218201E8248ACd24711E35",
+      "id": "ven",
+      "name": "Venus",
+      "symbol": "VEN",
       "decimals": 18,
       "precision": 3,
       "color": "#5eb8aa",
       "hasIcon": false,
       "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
     },
-    "0xE8b2E8a2e5d1aB00C335AEd726bf9cF266E4e114": {
-      "address": "0xE8b2E8a2e5d1aB00C335AEd726bf9cF266E4e114",
-      "id": "tok3",
-      "name": "Token 3",
-      "symbol": "Token 3",
+    "0x5F50c08779c366667E327611cd9D2DC1EA376084": {
+      "address": "0x5F50c08779c366667E327611cd9D2DC1EA376084",
+      "id": "erth",
+      "name": "Earth",
+      "symbol": "ERTH",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#2875ca",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    "0xd53f5eaE58e91a674a232e6B2460deE6B65E2725": {
+      "address": "0xd53f5eaE58e91a674a232e6B2460deE6B65E2725",
+      "id": "mars",
+      "name": "Mars",
+      "symbol": "MARS",
+      "decimals": 18,
+      "precision": 4,
+      "color": "#828384",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    "0x318612c00406C80f7B018Fc53ba1A01DA6C97e90": {
+      "address": "0x318612c00406C80f7B018Fc53ba1A01DA6C97e90",
+      "id": "jup",
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#fab323",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    "0x5f9D3737a1192103d78CBe2EcADAF2AE824988b4": {
+      "address": "0x5f9D3737a1192103d78CBe2EcADAF2AE824988b4",
+      "id": "sat",
+      "name": "Saturn",
+      "symbol": "SAT",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#5eb8aa",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    },
+    "0x03B7007b5204fDDB7cd19Bf2866f29056162433f": {
+      "address": "0x03B7007b5204fDDB7cd19Bf2866f29056162433f",
+      "id": "uns",
+      "name": "Uranus",
+      "symbol": "UNS",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#2875ca",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    "0x9d232068e61C3ACb71685a6254a601e236Db8Dda": {
+      "address": "0x9d232068e61C3ACb71685a6254a601e236Db8Dda",
+      "id": "nept",
+      "name": "Neptune",
+      "symbol": "NEPT",
+      "decimals": 18,
+      "precision": 3,
+      "color": "#5eb8aa",
+      "hasIcon": false,
+      "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    },
+    "0xB14B8365b64C15346A9F9834c8f3b62cA77AeF56": {
+      "address": "0xB14B8365b64C15346A9F9834c8f3b62cA77AeF56",
+      "id": "plut",
+      "name": "Pluto",
+      "symbol": "PLUT",
       "decimals": 18,
       "precision": 3,
       "color": "#2875ca",
