@@ -3482,8 +3482,8 @@
         {
             "address": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5",
             "chainId": 1281,
-            "name": "WETH",
-            "symbol": "WETH",
+            "name": "WDEV",
+            "symbol": "WDEV",
             "decimals": 18
         },
         {
@@ -3510,8 +3510,8 @@
         {
             "address": "0x20e2128fCe689c76B908bF515C00FcbD9A62C4BE",
             "chainId": 1287,
-            "name": "WETH",
-            "symbol": "WETH",
+            "name": "WDEV",
+            "symbol": "WDEVs",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
         },

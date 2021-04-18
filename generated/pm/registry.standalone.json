@@ -3,8 +3,8 @@
     "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5": {
       "address": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5",
       "id": "weth",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
+      "name": "Wrapped DEV",
+      "symbol": "WDEV",
       "decimals": 18,
       "precision": 4,
       "color": "#828384",
