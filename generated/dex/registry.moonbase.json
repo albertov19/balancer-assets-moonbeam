@@ -2,20 +2,21 @@
    "tokens": {
       "ether": {
          "address": "ether",
-         "name": "Ether",
-         "symbol": "ETH",
+         "name": "Dev",
+         "symbol": "DEV",
          "decimals": 18,
          "precision": 4,
          "hasIcon": true,
-         "logoUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
       },
       "0x20e2128fCe689c76B908bF515C00FcbD9A62C4BE": {
          "address": "0x20e2128fCe689c76B908bF515C00FcbD9A62C4BE",
-         "name": "Wrapped Ether",
-         "symbol": "WETH",
+         "name": "Wrapped DEV",
+         "symbol": "WDEV",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
       },
       "0xf4706e316819C4B2F20f18B39D47cAd507807d65": {
          "address": "0xf4706e316819C4B2F20f18B39D47cAd507807d65",
@@ -23,7 +24,8 @@
          "symbol": "MERC",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/mercury.svg"
       },
       "0xbb94A7C53Efc68A949218201E8248ACd24711E35": {
          "address": "0xbb94A7C53Efc68A949218201E8248ACd24711E35",
@@ -31,7 +33,8 @@
          "symbol": "VEN",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/venus.svg"
       },
       "0x5F50c08779c366667E327611cd9D2DC1EA376084": {
          "address": "0x5F50c08779c366667E327611cd9D2DC1EA376084",
@@ -39,7 +42,8 @@
          "symbol": "ERTH",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/earth.svg"
       },
       "0xd53f5eaE58e91a674a232e6B2460deE6B65E2725": {
          "address": "0xd53f5eaE58e91a674a232e6B2460deE6B65E2725",
@@ -47,7 +51,8 @@
          "symbol": "MARS",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/mars.svg"
       },
       "0x318612c00406C80f7B018Fc53ba1A01DA6C97e90": {
          "address": "0x318612c00406C80f7B018Fc53ba1A01DA6C97e90",
@@ -55,7 +60,8 @@
          "symbol": "JUP",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/jupiter.svg"
       },
       "0x5f9D3737a1192103d78CBe2EcADAF2AE824988b4": {
          "address": "0x5f9D3737a1192103d78CBe2EcADAF2AE824988b4",
@@ -63,7 +69,8 @@
          "symbol": "SAT",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/saturn.svg"
       },
       "0x03B7007b5204fDDB7cd19Bf2866f29056162433f": {
          "address": "0x03B7007b5204fDDB7cd19Bf2866f29056162433f",
@@ -71,7 +78,8 @@
          "symbol": "UNS",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/uranus.svg"
       },
       "0x9d232068e61C3ACb71685a6254a601e236Db8Dda": {
          "address": "0x9d232068e61C3ACb71685a6254a601e236Db8Dda",
@@ -79,7 +87,8 @@
          "symbol": "NEPT",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/neptune.svg"
       },
       "0xB14B8365b64C15346A9F9834c8f3b62cA77AeF56": {
          "address": "0xB14B8365b64C15346A9F9834c8f3b62cA77AeF56",
@@ -87,7 +96,8 @@
          "symbol": "PLUT",
          "decimals": 18,
          "precision": 5,
-         "hasIcon": false
+         "hasIcon": true,
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/pluto.svg"
       }
    },
    "untrusted": []
