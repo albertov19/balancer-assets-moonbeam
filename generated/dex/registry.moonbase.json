@@ -7,7 +7,7 @@
          "decimals": 18,
          "precision": 4,
          "hasIcon": true,
-         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/Black_Icon.svg"
       },
       "0x20e2128fCe689c76B908bF515C00FcbD9A62C4BE": {
          "address": "0x20e2128fCe689c76B908bF515C00FcbD9A62C4BE",
@@ -16,7 +16,7 @@
          "decimals": 18,
          "precision": 5,
          "hasIcon": true,
-         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+         "logoUrl": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/Black_Icon.svg"
       },
       "0xf4706e316819C4B2F20f18B39D47cAd507807d65": {
          "address": "0xf4706e316819C4B2F20f18B39D47cAd507807d65",
