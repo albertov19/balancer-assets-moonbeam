@@ -3513,7 +3513,7 @@
             "name": "WDEV",
             "symbol": "WDEVs",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+            "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/Black_Icon.svg"
         },
         {
             "address": "0xf4706e316819C4B2F20f18B39D47cAd507807d65",
